@@ -1,4 +1,4 @@
-Módulo de Cálculo de Frete e Taxas de Envio
+# Módulo de Cálculo de Frete e Taxas de Envio
 
 Sistema em C desenvolvido para simular a lógica de faturamento e frete de um e-commerce, aplicando validações rigorosas de dados e regras de negócio condicionais.
 
