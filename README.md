@@ -1,2 +1,3 @@
-# Projetos-para-teste-de-conhecimento
-Projetos criados para teste de códigos ao longo dos estudos da faculdade e do site Coddy.
+BEM VINDO!
+
+Todos os arquivos postados nesse projeto são de testes e práticas de códigos dentro e fora da faculdade. Com o objetivo de demonstrar minha evolução constante na área de estudo e futuramente de trabalho :).
