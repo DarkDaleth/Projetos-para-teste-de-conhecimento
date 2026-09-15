@@ -9,6 +9,7 @@ Repositório dedicado ao registro de projetos práticos, algoritmos e desafios t
 | # | Projeto | Descrição | Conceitos Aplicados |
 | :---: | :--- | :--- | :--- |
 | **01** | `01_taxa_frete` | Módulo de cálculo de frete e regras de negócio para e-commerce | Limpeza de buffer (`scanf`), validação com `return 1`, condicionais e funções |
+| **02** | `02_analise_estoque` | Módulo de análise de inventário e métricas de faturamento | Arrays, laços (`for`), funções com parâmetros e validação com *Early Return*  |
 
 ---
 
